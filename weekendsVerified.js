@@ -1,4 +1,4 @@
-let day = prompt("écrivez un jour de la semaine");
+let day = prompt();
 if (day = samedi || dimanche) {
  console.log("weekend ");
   
